@@ -103,9 +103,6 @@
 [submodule "LEDs.pretty"]
 	path = LEDs.pretty
 	url = git@github.com:KiCad/LEDs.pretty.git
-[submodule "Iut.pretty"]
-	path = Iut.pretty
-	url = git@github.com:KiCad/Iut.pretty.git
 [submodule "Inductors.pretty"]
 	path = Inductors.pretty
 	url = git@github.com:KiCad/Inductors.pretty.git
