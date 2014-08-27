@@ -139,9 +139,6 @@
 [submodule "Choke_Radial_ThroughHole.pretty"]
 	path = Choke_Radial_ThroughHole.pretty
 	url = git@github.com:KiCad/Choke_Radial_ThroughHole.pretty.git
-[submodule "Capacitors.pretty"]
-	path = Capacitors.pretty
-	url = git@github.com:KiCad/Capacitors.pretty.git
 [submodule "Capacitors_Elko_ThroughHole.pretty"]
 	path = Capacitors_Elko_ThroughHole.pretty
 	url = git@github.com:KiCad/Capacitors_Elko_ThroughHole.pretty.git
